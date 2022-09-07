@@ -13,7 +13,7 @@ importlib-metadata = {version = "^1.6.0", python = "<3.8"}
 requests = "2.25.1"
 tqdm = "^4.62.3"
 packaging = "^20.9.0"
-PyYAML = "^6.0"
+PyYAML = "^5.3.1"
 boto3 = "^1.21.22"
 Jinja2 = "^3.1.2"
 inquirerpy = "^0.3.4"

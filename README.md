@@ -1,5 +1,5 @@
 # Podder Task CLI
-
+This fork is to adjust the libs versions with HSBC driver license libs (solving conflicts)
 ## Requirement
 
 * Python 3.6 or higher
